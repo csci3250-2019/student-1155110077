@@ -4,7 +4,7 @@
 
 ## Welcome to my first repository
 
-	 :ghost: I am Lin Chuanfeng from the major of
+	 :alien: I am Lin Chuanfeng from the major of
 	Computer Science. I am really a fresher in GitHub 
 	and I wish I can master it in the future. 
 
