@@ -2,9 +2,9 @@
 
 `csci 3250 project milestone 2#`
 
-## Welcome to my first repository
+## Welcome to my first repository :alien:
 
-	 :alien: I am Lin Chuanfeng from the major of
+	I am Lin Chuanfeng from the major of
 	Computer Science. I am really a fresher in GitHub 
 	and I wish I can master it in the future. 
 
